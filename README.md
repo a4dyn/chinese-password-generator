@@ -7,7 +7,7 @@
 Install [python-pinyin](https://github.com/mozillazg/python-pinyin#id2) for your python.
 Fail to do so will cause the program unable to run.
 
-Quick install: ```$ pip install pypinyin```
+Quick install: ```pip install pypinyin```
 
 
 ## Usage
